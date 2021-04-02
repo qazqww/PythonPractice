@@ -1,4 +1,5 @@
 # https://codeup.kr/problem.php?id=4684
+# 완벽한 풀이가 되질 않아서 더 연구해야 함
 
 # num = int(input())
 # serial = list(map(int, input().split()))
