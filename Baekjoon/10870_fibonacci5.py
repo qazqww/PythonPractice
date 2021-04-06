@@ -2,7 +2,10 @@
 
 N = int(input())
 
-if N == 1 or N == 2:
+if N == 0:
+    print("0")
+
+elif N == 1 or N == 2:
     print("1")
 
 else:
